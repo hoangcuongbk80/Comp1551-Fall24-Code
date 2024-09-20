@@ -1,0 +1,14 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Comp1551-Su24.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Comp1551-Su24.deps.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Comp1551-Su24.runtimeconfig.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Comp1551-Su24.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Comp1551-Su24.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.GeneratedMSBuildEditorConfig.editorconfig
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.AssemblyInfoInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.AssemblyInfo.cs
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\refint\Comp1551-Su24.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.genruntimeconfig.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\ref\Comp1551-Su24.dll
