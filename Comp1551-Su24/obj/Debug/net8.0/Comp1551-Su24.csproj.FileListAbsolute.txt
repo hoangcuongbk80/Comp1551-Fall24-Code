@@ -12,3 +12,11 @@ D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp155
 D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.pdb
 D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.genruntimeconfig.cache
 D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\ref\Comp1551-Su24.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Lecture3.deps.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Lecture3.runtimeconfig.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Lecture3.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Lecture3.dll
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\bin\Debug\net8.0\Lecture3.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.csproj.AssemblyReference.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.sourcelink.json
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Comp1551-Su22-Code\Comp1551-Su24\obj\Debug\net8.0\Comp1551-Su24.csproj.CopyComplete
