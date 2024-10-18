@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Lecture2\\Lecture2.csproj",
+      "projectUniqueName": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Lecture2\\Lecture2.csproj",
       "projectName": "Lecture2",
-      "projectPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Lecture2\\Lecture2.csproj",
+      "projectPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Lecture2\\Lecture2.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Lecture2\\obj\\",
+      "outputPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Lecture2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

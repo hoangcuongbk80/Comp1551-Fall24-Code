@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Comp1551-Su24\\Comp1551-Su24.csproj",
+      "projectUniqueName": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Comp1551-Su24\\Comp1551-Su24.csproj",
       "projectName": "Comp1551-Su24",
-      "projectPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Comp1551-Su24\\Comp1551-Su24.csproj",
+      "projectPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Comp1551-Su24\\Comp1551-Su24.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Comp1551-Su24\\obj\\",
+      "outputPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Comp1551-Su24\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Lecture3\\Lecture3.csproj": {
-              "projectPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Su22-Code\\Lecture3\\Lecture3.csproj"
+            "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Lecture3\\Lecture3.csproj": {
+              "projectPath": "D:\\FGW\\Courses\\COMP1551-ApplicationDevelopment\\Fall24\\Comp1551-Fall24-Code\\Lecture3\\Lecture3.csproj"
             }
           }
         }
