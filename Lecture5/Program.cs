@@ -71,13 +71,14 @@
             T temp = x; x = y;  y= temp;
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("-----------Lecture 5-----------");
-            Seasons currentSeason = Seasons.Summer;
+
+            /*Seasons currentSeason = Seasons.Summer;
             Console.WriteLine("Current season: {0}", currentSeason);
             Seasons nextSeason = currentSeason + 1;
-            Console.WriteLine("Next season: {0}", nextSeason);
+            Console.WriteLine("Next season: {0}", nextSeason);*/
 
             /*Days today = (Days)1 + 1;
             Console.WriteLine("{0}", today);*/
@@ -121,7 +122,7 @@
             people[1].SetFirstName("Linh");
             people[2].SetFirstName("Thuy");
 
-            foreach(Person p in people)
+            foreach (Person p in people)
             {
                 Console.WriteLine(p.GetFirstName());
             }*/
@@ -178,7 +179,17 @@
             DateTime parsedDate = DateTime.ParseExact(dateString, "yyyy-MM-dd HH:mm:ss", null);
             Console.WriteLine("Parsed Date: " + parsedDate);*/
 
-            Console.Read();
+            /*DateTime now = DateTime.Now;
+            Console.WriteLine(now.ToLongDateString());
+            Console.WriteLine(now.ToLongTimeString());
+
+            DateTime yesterday = now.AddDays(-1);
+            Console.WriteLine(yesterday.ToLongDateString());
+
+            DateTime tmr = now.AddDays(1);
+            Console.WriteLine(tmr.ToLongDateString());
+
+            Console.Read();*/
         }
     }
 }

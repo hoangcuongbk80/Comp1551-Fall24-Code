@@ -1,0 +1,12 @@
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\bin\Debug\Game-WFDemo-1201.exe.config
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\bin\Debug\Game-WFDemo-1201.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\bin\Debug\Game-WFDemo-1201.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game-WFDemo-1201.csproj.AssemblyReference.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game_WFDemo_1201.Login.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game_WFDemo_1201.Properties.Resources.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game-WFDemo-1201.csproj.GenerateResource.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game-WFDemo-1201.csproj.CoreCompileInputs.cache
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game-WFDemo-1201.exe
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game-WFDemo-1201.pdb
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game_WFDemo_1201.Creator.resources
+D:\FGW\Courses\COMP1551-ApplicationDevelopment\Fall24\Game-WFDemo-1201\obj\Debug\Game_WFDemo_1201.Player.resources
